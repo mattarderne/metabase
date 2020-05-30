@@ -1,5 +1,9 @@
 # Metabase
 
+This is a production ready deployment method for [Metabase](https://www.metabase.com) running on AW EC2, with AWS RDS for metadata.
+
+This can also be achieved alternatively using Elastic Beanstalk using this [guide](https://www.metabase.com/docs/latest/operations-guide/running-metabase-on-elastic-beanstalk.html).
+
 ## Requirements
 
 * AWS account, ability to setup EC2 and RDS instances
